@@ -1,2 +1,0 @@
-# reactTimer
-Created with CodeSandbox
